@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Saikiran Anugam! 
 
-🚀 **Aspiring Data Scientist | NASA Researcher | AI & HPC Enthusiast**  
+**Aspiring Data Scientist | NASA Researcher | AI & HPC Enthusiast**  
 
 🎓 **Master’s in Engineering Data Science (UH)** | 🎯 **Machine Learning & AI for Real-World Impact**  
 🔬 **Researcher on NASA-Funded Project: HPC-driven biomedical data processing from ISS experiments**  
-📜 **Patent Holder | Published Researcher | Kaggle Competitor**  
+📜 **Patent Holder | Published Researcher**  
 
 ---
 
