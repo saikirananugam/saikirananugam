@@ -30,12 +30,12 @@ I am a **Research Data Scientist** with expertise in **Machine Learning, AI, and
 My research focuses on **analyzing protein aggregation** using **HPC & AI for cancer research and pharmaceutical applications**.
 
 ### **🔹 Key Highlights**
-✅ **NASA-Funded Researcher:** HPC-driven **biomedical data processing** from ISS experiments  
-✅ **Patent Holder:** Invented a **Multi-Purpose Agriculture Apparatus** for smart farming  
-✅ **Scopus-Indexed Publications:** AI-based **startup success prediction & speech emotion recognition**  
-✅ **Award-Winning ML Solutions:** **Steel Manufacturing Optimization & Biodefense Simulations**  
-✅ **Energy Transition Intern:** Applied **ML & Geospatial Analysis** for petrochemical & sustainability insights  
-✅ **Scholarships & Certifications:** **70% UH Scholarship & AI Excellence Award**  
+1. **NASA-Funded Researcher:** HPC-driven **biomedical data processing** from ISS experiments  
+2. **Patent Holder:** Invented a **Multi-Purpose Agriculture Apparatus** for smart farming  
+3. **Scopus-Indexed Publications:** AI-based **startup success prediction & speech emotion recognition**  
+4. **Award-Winning ML Solutions:** **Steel Manufacturing Optimization & Biodefense Simulations**  
+5. **Energy Transition Intern:** Applied **ML & Geospatial Analysis** for petrochemical & sustainability insights  
+6. **Scholarships & Certifications:** **70% UH Scholarship & AI Excellence Award**  
 
 ---
 
