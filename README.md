@@ -76,7 +76,7 @@ My research focuses on **analyzing protein aggregation** using **HPC & AI for ca
 
 ## 📫 Let's Connect!  
 
-🔗 **Portfolio:** [saikirananugam.github.io](https://saikirananugam.github.io)  
+🔗 **Portfolio:** [saikirananugam.com](https://saikirananugam.com)  
 📧 **Email:** saikirananugam@gmail.com  
 📍 **LinkedIn:** [linkedin.com/in/saikirananugam](https://www.linkedin.com/in/saikirananugam/)  
 
