@@ -55,7 +55,7 @@ Team includes former engineers from **Meta, Salesforce, Microsoft Azure** and qu
 ### <img src="https://img.shields.io/badge/-2025-764ba2?style=flat-square"/> Software Engineer @ Staples
 **May 2025 - Sep 2025** | Contract
 
-Java Spring Boot microservices, event-driven architectures, REST APIs. Deployed on **Azure Kubernetes Service & GKE**. CI/CD, PostgreSQL, Cosmos DB, Redis, Cassandra, Splunk & Grafana
+Engineered event-driven microservices (Java/Kafka) reducing order cancellation by 80%. Optimized Azure Event Hubs saving $4,800/mo. Migrated ETL pipelines to Cloud Composer/BigQuery accelerating reports by 20%
 
 </td>
 </tr>
@@ -65,7 +65,7 @@ Java Spring Boot microservices, event-driven architectures, REST APIs. Deployed 
 ### <img src="https://img.shields.io/badge/-NASA-E03C31?style=flat-square"/> Research Data Scientist @ UH
 **Apr 2024 - Dec 2025** | NASA ISS Project
 
-Optimized Fortran with CUDA — **24hrs to 40min (98% faster)**. Automated pipeline with Fourier transforms. Collaborated with 9+ researchers on protein analysis in microgravity
+Boosted computation speed 36x with HPC/CUDA (24hrs to 40min). Built ML regression models with <5% error. Launched Streamlit platform for 20+ cross-disciplinary scientists
 
 </td>
 <td width="50%" valign="top">
@@ -73,7 +73,7 @@ Optimized Fortran with CUDA — **24hrs to 40min (98% faster)**. Automated pipel
 ### <img src="https://img.shields.io/badge/-NSF-2E86C1?style=flat-square"/> Energy Transition Intern @ UH
 **May - Jun 2024** | NSF Program
 
-Data preprocessing, visualization & ML for sustainability. Selected top 10 out of 33 teams in Green Hydrogen hackathon with Fugro
+Modeled time-series wind data reducing energy output fluctuations by 15%. Deployed RAG solution on AWS SageMaker/Bedrock — won Best Solution Award among 50+ teams
 
 </td>
 </tr>
@@ -81,7 +81,115 @@ Data preprocessing, visualization & ML for sustainability. Selected top 10 out o
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Skills & Technologies
+## <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="30"> Featured Videos
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://www.youtube.com/watch?v=UbIP7x5N2P8">
+<img src="https://img.youtube.com/vi/UbIP7x5N2P8/maxresdefault.jpg" width="400" alt="Experience Showcase"/>
+<br/>
+<img src="https://img.shields.io/badge/▶_Play-Professional_Experience-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://www.youtube.com/watch?v=Pfeulq1wms8">
+<img src="https://img.youtube.com/vi/Pfeulq1wms8/maxresdefault.jpg" width="400" alt="Projects Showcase"/>
+<br/>
+<img src="https://img.shields.io/badge/▶_Play-Projects_Showcase-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/saikirananugam/Optimizing-Green-Hydrogen-Production-using-ML-">
+<img src="https://img.shields.io/badge/-Green_Hydrogen_ML-76B900?style=for-the-badge"/>
+<br/><br/>
+<b>Optimizing Green Hydrogen Production</b>
+<br/><sub>ML | Data Analysis | Scikit-learn</sub>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/saikirananugam/-Machine-Learning-Approaches-for-Predicting-Composition-Property-Relationship-in-Industrial-Steels">
+<img src="https://img.shields.io/badge/-Steel_Manufacturing_ML-4285F4?style=for-the-badge"/>
+<br/><br/>
+<b>ML for Industrial Steels</b>
+<br/><sub>Python | R | Materials Science</sub>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/saikirananugam/DIP_Team-4">
+<img src="https://img.shields.io/badge/-Facial_Recognition-764ba2?style=for-the-badge"/>
+<br/><br/>
+<b>Advanced Facial Recognition & Bias Mitigation</b>
+<br/><sub>EfficientNet | ResNet50 | Gradio</sub>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/saikirananugam/NNDL/tree/main/Capstone%20Project">
+<img src="https://img.shields.io/badge/-Speech_Emotion-EE4C2C?style=for-the-badge"/>
+<br/><br/>
+<b>Speech Emotion Recognition</b>
+<br/><sub>CNN | LSTM | Deep Learning</sub>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/saikirananugam/Multi-purpose-agro-machine">
+<img src="https://img.shields.io/badge/-Patented_Invention-FF8C00?style=for-the-badge"/>
+<br/><br/>
+<b>MultiPurpose Agro Machine</b>
+<br/><sub>Patent 202241008404 | AutoCAD</sub>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/saikirananugam/Fake-news-detection-using-NLP">
+<img src="https://img.shields.io/badge/-Fake_News_NLP-667eea?style=for-the-badge"/>
+<br/><br/>
+<b>Fake News Detection</b>
+<br/><sub>LSTM | BERT | NLP</sub>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/saikirananugam/AI/tree/main/capstone-proje">
+<img src="https://img.shields.io/badge/-Startup_Prediction-3FCF8E?style=for-the-badge"/>
+<br/><br/>
+<b>Startup Success Prediction</b>
+<br/><sub>Python | Regression | ML</sub>
+</a>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-Oil_Forecasting-232F3E?style=for-the-badge"/>
+<br/><br/>
+<b>Oil Production Forecasting</b>
+<br/><sub>Time Series | KNN | Streamlit</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-Biodefense_Sim-DC382D?style=for-the-badge"/>
+<br/><br/>
+<b>Biodefense Simulation (NVIDIA RAPIDS)</b>
+<br/><sub>CUDA | K-Means | DBSCAN | HPC</sub>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Skills & Technologies
 
 <div align="center">
 
@@ -126,6 +234,7 @@ Data preprocessing, visualization & ML for sustainability. Selected top 10 out o
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
@@ -185,6 +294,7 @@ Head of Coding Club | IEEE Student Branch Secretary
 <img src="https://img.shields.io/badge/AWS-Generative_AI-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/HPE-Cluster_Computing-01A982?style=flat-square&logo=hp&logoColor=white"/>
 <img src="https://img.shields.io/badge/HPE_DSI-AI_Excellence_Award-01A982?style=flat-square&logo=hp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-Java_Certified-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 </p>
 <i>+ 10 more from Microsoft, Oracle, Amazon, NVIDIA</i>
 </div>
