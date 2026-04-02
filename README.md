@@ -88,14 +88,14 @@ Modeled time-series wind data reducing energy output fluctuations by 15%. Deploy
 <tr>
 <td align="center" width="50%">
 <a href="https://www.youtube.com/watch?v=UbIP7x5N2P8">
-<img src="https://img.youtube.com/vi/UbIP7x5N2P8/maxresdefault.jpg" width="400" alt="Experience Showcase"/>
+<img src="https://img.youtube.com/vi/UbIP7x5N2P8/hqdefault.jpg" width="400" alt="Experience Showcase"/>
 <br/>
 <img src="https://img.shields.io/badge/▶_Play-Professional_Experience-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 </td>
 <td align="center" width="50%">
 <a href="https://www.youtube.com/watch?v=Pfeulq1wms8">
-<img src="https://img.youtube.com/vi/Pfeulq1wms8/maxresdefault.jpg" width="400" alt="Projects Showcase"/>
+<img src="https://img.youtube.com/vi/Pfeulq1wms8/hqdefault.jpg" width="400" alt="Projects Showcase"/>
 <br/>
 <img src="https://img.shields.io/badge/▶_Play-Projects_Showcase-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
